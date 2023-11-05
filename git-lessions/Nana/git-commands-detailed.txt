@@ -8,4 +8,4 @@ Branch:
 - git merge [branch]: Merges the specified branch into the current branch.
           --no-ff: Forces a merge commit even if the merge is a fast-forward.
 - git branch -d [branch name]: Deletes a branch that has already been merged into the current branch.
-- git branch -m [new branch name]: Renames the current branch to a new name.
+- git branch -m [new branch name]: Renames the current branch to a new name..
